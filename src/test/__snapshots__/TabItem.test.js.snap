@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text change after button click 1`] = `
+<div
+  className="tab-item"
+>
+  <button
+    className="button"
+    onClick={[Function]}
+  >
+    Button click
+  </button>
+  button not clicked
+</div>
+`;
